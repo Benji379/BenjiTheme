@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor foreColor="ffcccccc" name="code-folding-border"/>
+    <fontcolor bgColor="black" name="guarded"/>
+    <fontcolor name="west-sidebars-color"/>
+    <fontcolor bgColor="darkGray" name="selection"/>
+    <fontcolor bgColor="black" name="highlight-caret-row"/>
+    <fontcolor bgColor="green" foreColor="ffff3333" name="nbeditor-bracesMatching-match-multichar"/>
+    <fontcolor foreColor="white" name="synchronized-text-blocks-ext-slave"/>
+</fontscolors>
